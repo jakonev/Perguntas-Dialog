@@ -1,2 +1,6 @@
 # perguntas
  respostas
+
+Dialog
+
+ <img src="https://v5.airtableusercontent.com/v3/u/29/29/1717444800000/mqjd2pMcnB2_31HZSrCcuQ/A3q1HeoZgX96MH26nC2Zw8if4ky-QCVPHQCgvOe6ZHfL2YZlGg41YHXEL44GX3uemHRtbOcagFvUyJipB2GxK2QB-ZVK2E20tc3xUB5PbxUwyh5L769jVWYLxGrwiyYg11hmD6KWp0bJ5iU9TrAdWOy3Flg6RIYt86V3zI1xlC8/vwVa-RC4bL4SvfamVi9XnPDgU_j6R4plbIAZWHvTziY">
