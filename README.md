@@ -3,4 +3,4 @@
 
 Dialog
 
- <img src="https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/h_RkHNOfS8uv022fafdWWw/MQqEla8ipzhKYYAbXHo5mZ0XbbvSEwlxl0vdwP2bWWm8Rb2fMyqpXwMMGkpTS-bKsqtsD0lrieiuzG_WzVUikcVjX2KyjTHcMKlQ453VdYjo-l9teJW5wbPkr730c86cValPaerhe7G_mh1AqrjhI0eu3lk2pndMB3lRmWpSzbY/aw-2sMrmDIVcoGMDsXqFRkoj_b9zLSmQRv-ZXiIjnqE">
+ <img src="https://res.cloudinary.com/dsiexpoig/image/upload/v1718039271/dialog_qsoy8f.jpg">
